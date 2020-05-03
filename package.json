@@ -1,0 +1,17 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com.ivalynx/ajs-working-enviroment-npm-packge.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "ivalynx",
+  "license": "ISC"
+}
